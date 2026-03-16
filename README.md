@@ -47,12 +47,12 @@ SNS sends notifications for upload events.
 This implementation follows typical EDA layers:
 
 ## Layer	Service
-Ingestion Layer - 	Amazon S3
-Event Routing Layer - Amazon EventBridge
-Messaging Layer - 	Amazon SQS
-Processing Layer - 	AWS Lambda
-Data Layer	Amazon -  DynamoDB
-Notification Layer - 	Amazon SNS
+* Ingestion Layer - 	Amazon S3
+* Event Routing Layer - Amazon EventBridge
+* Messaging Layer - 	Amazon SQS
+* Processing Layer - 	AWS Lambda
+* Data Layer	Amazon -  DynamoDB
+* Notification Layer - 	Amazon SNS
 
 ## Use Case
 
