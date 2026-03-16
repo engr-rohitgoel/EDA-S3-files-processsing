@@ -4,7 +4,7 @@
 
 ![High Level Design](./images/EDA.jpg)
 
-This repository demonstrates how to implement a scalable Event-Driven Architecture (EDA) on AWS .
+This repository demonstrates how to implement a scalable Event-Driven Architecture (EDA) on AWS in us-west-2 region .
 
 The architecture processes files uploaded to Amazon S3 and routes them through an event-driven pipeline for asynchronous processing and metadata storage.
 
