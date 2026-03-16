@@ -91,5 +91,4 @@ Once Setup is complete, User can test it by uploading text, csv and images in S3
 
 ![Email](./images/mail.jpg)
 
-![High Level Design](./images/EDA.jpg)
 
