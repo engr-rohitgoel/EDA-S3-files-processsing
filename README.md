@@ -77,18 +77,30 @@ Once Setup is complete, User can test it by uploading text, csv and images in S3
 
 ## Sample Screenshots of setup and end results
 
+## S3 bucket
+
 ![bucket](./images/S3.jpg)
+
+## Evenbridge Rules
 
 ![Eventbridge](./images/rules.jpg)
 
+## SNS Topic
+
 ![SNS](./images/sns.jpg)
+
+## SQS
 
 ![SQS](./images/sqs.jpg)
 
+## DynamoDB Table and Entries created after S3 object processing
 ![DynamoDB](./images/DDB.jpg)
+
+## Lambda
 
 ![Lambda](./images/Lambda.jpg)
 
+## Email Notification
 ![Email](./images/mail.jpg)
 
 
